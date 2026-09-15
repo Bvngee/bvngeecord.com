@@ -35,6 +35,8 @@ body {
     font-size: 105%;
     font-family: "Nunito Sans", sans;
     text-underline-offset: 2px;
+
+    color-scheme: dark;
 }
 
 /* :root { */
